@@ -17,7 +17,7 @@ Feel free to reach out through the links below, and let's collaborate, inspire, 
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats]([https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox](https://wallpaperaccess.com/full/3481125.jpg))
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
