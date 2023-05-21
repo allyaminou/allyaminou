@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allya M</h1>
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<img align="right" alt="Coding" width="400" src="https://jonathanhmoralescontent.files.wordpress.com/2021/01/digitalphil.gif)](https://jonathanhmoralescontent.files.wordpress.com/2021/01/digitalphil.gif">
 <h3 align="center">.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allyam&label=Profile%20views&color=0e75b6&style=flat" alt="allyam" /> </p>
