@@ -9,21 +9,3 @@ I invite you to explore my projects, connect with me, and join me on this exciti
 
 Feel free to reach out through the links below, and let's collaborate, inspire, and build a brighter future together!
 
-
-
-[<img src="[https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white](https://wallpaperaccess.com/full/3481125.jpg)"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
-#
-
-### 📊 Stats
-
-![Forrest's GitHub stats]([https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox](https://wallpaperaccess.com/full/3481125.jpg))
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
-
-<details>
- <summary><h3>👨‍💻  Journey</h3></summary>
-
-
